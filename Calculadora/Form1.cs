@@ -178,7 +178,7 @@ namespace Calculadora
         {
             if (Pantalla.Text.Length > 1)
             {
-                Pantalla.Text = Pantalla.Text.Substring(0, Pantalla.Text.Length - 1);
+                Pantalla.Text = Pantalla.Text[..^1];
             }
             else
             {
