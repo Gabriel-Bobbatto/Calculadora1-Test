@@ -136,7 +136,7 @@ namespace Calculadora
                     }
                     break;
                 case 5:
-                    resultado = valor2 % valor1;
+                    resultado = (valor1 * valor2) / 100;
                     break;
             }
 
@@ -196,8 +196,14 @@ namespace Calculadora
         private void button2_Click(object sender, EventArgs e)
         {
             valor1 = Convert.ToDouble(Pantalla.Text);
-            valor1 *= -1;
-            Pantalla.Text = valor1.ToString();
+            if (Pantalla.Text.Substring(0, 1) == "-")
+            {
+                Pantalla.Text = Pantalla.Text.Substring(1, Pantalla.Text.Length - 1);
+            }
+            else
+            {
+                Pantalla.Text = "-" + Pantalla.Text;
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
