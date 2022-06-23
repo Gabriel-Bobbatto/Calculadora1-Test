@@ -54,7 +54,7 @@
             // 
             // button2
             // 
-            this.button2.BackColor = System.Drawing.SystemColors.GrayText;
+            this.button2.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.button2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Arial Black", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -68,7 +68,7 @@
             // 
             // b0
             // 
-            this.b0.BackColor = System.Drawing.SystemColors.GrayText;
+            this.b0.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.b0.Cursor = System.Windows.Forms.Cursors.Hand;
             this.b0.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.b0.Font = new System.Drawing.Font("Arial Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -82,7 +82,7 @@
             // 
             // bPunto
             // 
-            this.bPunto.BackColor = System.Drawing.SystemColors.GrayText;
+            this.bPunto.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.bPunto.Cursor = System.Windows.Forms.Cursors.Hand;
             this.bPunto.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.bPunto.Font = new System.Drawing.Font("Arial Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -96,7 +96,7 @@
             // 
             // bIgual
             // 
-            this.bIgual.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.bIgual.BackColor = System.Drawing.SystemColors.Window;
             this.bIgual.Cursor = System.Windows.Forms.Cursors.Hand;
             this.bIgual.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.bIgual.Font = new System.Drawing.Font("Arial Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -110,7 +110,7 @@
             // 
             // b1
             // 
-            this.b1.BackColor = System.Drawing.SystemColors.GrayText;
+            this.b1.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.b1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.b1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.b1.Font = new System.Drawing.Font("Arial Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -125,7 +125,7 @@
             // 
             // b2
             // 
-            this.b2.BackColor = System.Drawing.SystemColors.GrayText;
+            this.b2.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.b2.Cursor = System.Windows.Forms.Cursors.Hand;
             this.b2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.b2.Font = new System.Drawing.Font("Arial Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -139,7 +139,7 @@
             // 
             // b3
             // 
-            this.b3.BackColor = System.Drawing.SystemColors.GrayText;
+            this.b3.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.b3.Cursor = System.Windows.Forms.Cursors.Hand;
             this.b3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.b3.Font = new System.Drawing.Font("Arial Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -153,7 +153,7 @@
             // 
             // bSuma
             // 
-            this.bSuma.BackColor = System.Drawing.SystemColors.GrayText;
+            this.bSuma.BackColor = System.Drawing.SystemColors.Window;
             this.bSuma.Cursor = System.Windows.Forms.Cursors.Hand;
             this.bSuma.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.bSuma.Font = new System.Drawing.Font("Arial Black", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -167,7 +167,7 @@
             // 
             // b4
             // 
-            this.b4.BackColor = System.Drawing.SystemColors.GrayText;
+            this.b4.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.b4.Cursor = System.Windows.Forms.Cursors.Hand;
             this.b4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.b4.Font = new System.Drawing.Font("Arial Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -181,7 +181,7 @@
             // 
             // b5
             // 
-            this.b5.BackColor = System.Drawing.SystemColors.GrayText;
+            this.b5.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.b5.Cursor = System.Windows.Forms.Cursors.Hand;
             this.b5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.b5.Font = new System.Drawing.Font("Arial Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -195,7 +195,7 @@
             // 
             // b6
             // 
-            this.b6.BackColor = System.Drawing.SystemColors.GrayText;
+            this.b6.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.b6.Cursor = System.Windows.Forms.Cursors.Hand;
             this.b6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.b6.Font = new System.Drawing.Font("Arial Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -209,7 +209,7 @@
             // 
             // bResta
             // 
-            this.bResta.BackColor = System.Drawing.SystemColors.GrayText;
+            this.bResta.BackColor = System.Drawing.SystemColors.Window;
             this.bResta.Cursor = System.Windows.Forms.Cursors.Hand;
             this.bResta.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.bResta.Font = new System.Drawing.Font("Arial Black", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -223,7 +223,7 @@
             // 
             // b7
             // 
-            this.b7.BackColor = System.Drawing.SystemColors.GrayText;
+            this.b7.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.b7.Cursor = System.Windows.Forms.Cursors.Hand;
             this.b7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.b7.Font = new System.Drawing.Font("Arial Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -237,7 +237,7 @@
             // 
             // b8
             // 
-            this.b8.BackColor = System.Drawing.SystemColors.GrayText;
+            this.b8.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.b8.Cursor = System.Windows.Forms.Cursors.Hand;
             this.b8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.b8.Font = new System.Drawing.Font("Arial Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -251,7 +251,7 @@
             // 
             // b9
             // 
-            this.b9.BackColor = System.Drawing.SystemColors.GrayText;
+            this.b9.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.b9.Cursor = System.Windows.Forms.Cursors.Hand;
             this.b9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.b9.Font = new System.Drawing.Font("Arial Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -265,7 +265,7 @@
             // 
             // bMultiplicacion
             // 
-            this.bMultiplicacion.BackColor = System.Drawing.SystemColors.GrayText;
+            this.bMultiplicacion.BackColor = System.Drawing.SystemColors.Window;
             this.bMultiplicacion.Cursor = System.Windows.Forms.Cursors.Hand;
             this.bMultiplicacion.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.bMultiplicacion.Font = new System.Drawing.Font("Arial Black", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -279,7 +279,7 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.SystemColors.GrayText;
+            this.button1.BackColor = System.Drawing.SystemColors.Window;
             this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Arial", 19F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
@@ -293,7 +293,7 @@
             // 
             // bborrar
             // 
-            this.bborrar.BackColor = System.Drawing.SystemColors.GrayText;
+            this.bborrar.BackColor = System.Drawing.SystemColors.Window;
             this.bborrar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.bborrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.bborrar.Font = new System.Drawing.Font("Arial Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -307,7 +307,7 @@
             // 
             // button19
             // 
-            this.button19.BackColor = System.Drawing.SystemColors.GrayText;
+            this.button19.BackColor = System.Drawing.SystemColors.Window;
             this.button19.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button19.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button19.Font = new System.Drawing.Font("Arial Black", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -321,7 +321,7 @@
             // 
             // bDivicion
             // 
-            this.bDivicion.BackColor = System.Drawing.SystemColors.GrayText;
+            this.bDivicion.BackColor = System.Drawing.SystemColors.Window;
             this.bDivicion.Cursor = System.Windows.Forms.Cursors.Hand;
             this.bDivicion.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.bDivicion.Font = new System.Drawing.Font("Arial Black", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -335,7 +335,7 @@
             // 
             // Pantalla
             // 
-            this.Pantalla.BackColor = System.Drawing.SystemColors.GrayText;
+            this.Pantalla.BackColor = System.Drawing.SystemColors.ScrollBar;
             this.Pantalla.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.Pantalla.Font = new System.Drawing.Font("Verdana", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.Pantalla.Location = new System.Drawing.Point(12, 12);
