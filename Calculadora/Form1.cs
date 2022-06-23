@@ -4,7 +4,7 @@ namespace Calculadora
     {
         private double valor1;
         private double valor2;
-
+        private double signos;
         private double resultado;
         private int operacion;
 
@@ -195,15 +195,9 @@ namespace Calculadora
 
         private void button2_Click(object sender, EventArgs e)
         {
-            valor1 = Convert.ToDouble(Pantalla.Text);
-            if (Pantalla.Text.Substring(0, 1) == "-")
-            {
-                Pantalla.Text = Pantalla.Text.Substring(1, Pantalla.Text.Length - 1);
-            }
-            else
-            {
-                Pantalla.Text = "-" + Pantalla.Text;
-            }
+            signos = double.Parse(Pantalla.Text);
+            signos = signos - (signos * 2);
+            Pantalla.Text = signos.ToString();
         }
 
         private void button1_Click(object sender, EventArgs e)
