@@ -171,7 +171,7 @@ namespace Calculadora
         private void button2_Click(object sender, EventArgs e)
         {
             signos = double.Parse(Pantalla.Text);
-            signos = signos - (signos * 2);
+            signos -= (signos * 2);
             Pantalla.Text = signos.ToString();
         }
         private void button1_Click(object sender, EventArgs e)
